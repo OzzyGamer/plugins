@@ -1,0 +1,87 @@
+2025-04-07 12:22:13 [INFO] CustomPaintings mod initialized.
+2025-04-07 12:22:13 [INFO] Loading images from: D:\SteamLibrary\steamapps\common\REPO\BepInEx\plugins\Paintings\CustomPaintings
+2025-04-07 12:22:13 [INFO] Loaded image #1: 0x1900-000000-80-0-0.png
+2025-04-07 12:22:13 [INFO] Loaded image #2: 1reymm.png
+2025-04-07 12:22:13 [INFO] Loaded image #3: Adult Timmy.png
+2025-04-07 12:22:13 [INFO] Loaded image #4: anime1.png
+2025-04-07 12:22:13 [INFO] Loaded image #5: artworks-000380227989-k8j1k4-t500x500.png
+2025-04-07 12:22:13 [INFO] Loaded image #6: artworks-D8GvdBXEnU9yc13p-ZuCODw-t1080x1080.png
+2025-04-07 12:22:13 [INFO] Loaded image #7: bold and brash.png
+2025-04-07 12:22:13 [INFO] Loaded image #8: bowl of fruit.png
+2025-04-07 12:22:13 [INFO] Loaded image #9: bowser painting.png
+2025-04-07 12:22:13 [INFO] Loaded image #10: Bunch of eyes.png
+2025-04-07 12:22:13 [INFO] Loaded image #11: catears.png
+2025-04-07 12:22:13 [INFO] Loaded image #12: cayde 6.png
+2025-04-07 12:22:13 [INFO] Loaded image #13: cheeselol-malapple.png
+2025-04-07 12:22:13 [INFO] Loaded image #14: clive smile.png
+2025-04-07 12:22:13 [INFO] Loaded image #15: crying cat.png
+2025-04-07 12:22:13 [INFO] Loaded image #16: db2904ac-fec5-4a02-8e31-3c01381009f6-1704730926369.png
+2025-04-07 12:22:13 [INFO] Loaded image #17: deer.png
+2025-04-07 12:22:13 [INFO] Loaded image #18: Dickbutt.png
+2025-04-07 12:22:13 [INFO] Loaded image #19: Dio Brando.png
+2025-04-07 12:22:13 [INFO] Loaded image #20: doom guy.png
+2025-04-07 12:22:13 [INFO] Loaded image #21: doro.png
+2025-04-07 12:22:13 [INFO] Loaded image #22: Dr Ratio Statue.png
+2025-04-07 12:22:13 [INFO] Loaded image #23: eminem.png
+2025-04-07 12:22:13 [INFO] Loaded image #24: eto bleh.png
+2025-04-07 12:22:13 [INFO] Loaded image #25: FSz9teDXsAU4YFa.png
+2025-04-07 12:22:13 [INFO] Loaded image #26: Full Rune Armor.png
+2025-04-07 12:22:13 [INFO] Loaded image #27: Goku Supreme.png
+2025-04-07 12:22:14 [INFO] Loaded image #28: goodbye.png
+2025-04-07 12:22:14 [INFO] Loaded image #29: handsome squidward.png
+2025-04-07 12:22:14 [INFO] Loaded image #30: hatsune miku.png
+2025-04-07 12:22:14 [INFO] Loaded image #31: Helldivers 2.png
+2025-04-07 12:22:14 [INFO] Loaded image #32: helldivers.png
+2025-04-07 12:22:14 [INFO] Loaded image #33: hsrtest.png
+2025-04-07 12:22:14 [INFO] Loaded image #34: Isaac.png
+2025-04-07 12:22:14 [INFO] Loaded image #35: Junji ito.png
+2025-04-07 12:22:14 [INFO] Loaded image #36: Kenshiro.png
+2025-04-07 12:22:14 [INFO] Loaded image #37: Lamp.png
+2025-04-07 12:22:14 [INFO] Loaded image #38: lara croft 1.png
+2025-04-07 12:22:14 [INFO] Loaded image #39: lingyang.png
+2025-04-07 12:22:14 [INFO] Loaded image #40: ltg.png
+2025-04-07 12:22:14 [INFO] Loaded image #41: mega satan.png
+2025-04-07 12:22:14 [INFO] Loaded image #42: megumin puke.png
+2025-04-07 12:22:14 [INFO] Loaded image #43: mhw alma.png
+2025-04-07 12:22:14 [INFO] Loaded image #44: mlady.png
+2025-04-07 12:22:14 [INFO] Loaded image #45: Mona Lisa.png
+2025-04-07 12:22:14 [INFO] Loaded image #46: Morbius.png
+2025-04-07 12:22:14 [INFO] Loaded image #47: nigel thornberry.png
+2025-04-07 12:22:14 [INFO] Loaded image #48: phasmophobia 1.png
+2025-04-07 12:22:14 [INFO] Loaded image #49: pikachu on a throne.png
+2025-04-07 12:22:14 [INFO] Loaded image #50: pikmin.png
+2025-04-07 12:22:14 [INFO] Loaded image #51: pokemon 151.png
+2025-04-07 12:22:14 [INFO] Loaded image #52: Pot Friend.png
+2025-04-07 12:22:14 [INFO] Loaded image #53: pulchra.png
+2025-04-07 12:22:14 [INFO] Loaded image #54: qiqi banner.png
+2025-04-07 12:22:14 [INFO] Loaded image #55: roblox.png
+2025-04-07 12:22:14 [INFO] Loaded image #56: saitama ok.png
+2025-04-07 12:22:14 [INFO] Loaded image #57: sanic 2.png
+2025-04-07 12:22:14 [INFO] Loaded image #58: sanic.png
+2025-04-07 12:22:14 [INFO] Loaded image #59: scp 173.png
+2025-04-07 12:22:14 [INFO] Loaded image #60: shaggy blanco.png
+2025-04-07 12:22:14 [INFO] Loaded image #61: shinji.png
+2025-04-07 12:22:14 [INFO] Loaded image #62: Shrek2-disneyscreencaps.com-4369.png
+2025-04-07 12:22:14 [INFO] Loaded image #63: slenderman.png
+2025-04-07 12:22:14 [INFO] Loaded image #64: spongebob pirate.png
+2025-04-07 12:22:14 [INFO] Loaded image #65: stardew punch.png
+2025-04-07 12:22:14 [INFO] Loaded image #66: steve.png
+2025-04-07 12:22:14 [INFO] Loaded image #67: thatguy.png
+2025-04-07 12:22:14 [INFO] Loaded image #68: the rock.png
+2025-04-07 12:22:14 [INFO] Loaded image #69: thiccomniman.png
+2025-04-07 12:22:14 [INFO] Loaded image #70: toothless dragon.png
+2025-04-07 12:22:14 [INFO] Loaded image #71: Trump Mugshot.png
+2025-04-07 12:22:14 [INFO] Loaded image #72: umbreon vmax.png
+2025-04-07 12:22:14 [INFO] Loaded image #73: van goge.png
+2025-04-07 12:22:14 [INFO] Loaded image #74: vegeta griddy.png
+2025-04-07 12:22:14 [INFO] Total images loaded: 74
+2025-04-07 12:22:14 [INFO] Initial ModState: SinglePlayer
+2025-04-07 12:22:14 [INFO] Generated initial random seed: 2047709360
+2025-04-07 12:22:39 [WARNING] [Postfix] Client did not receive seed in time. Proceeding without it.
+2025-04-07 12:22:39 [INFO] Applying seed 2047709360 for painting swaps in scene: Main
+2025-04-07 12:22:39 [INFO] Replacing all materials containing 'painting' with custom images...
+2025-04-07 12:22:39 [INFO] Total materials checked: 2649
+2025-04-07 12:22:39 [INFO] Total paintings changed in this scene: 17
+2025-04-07 12:22:39 [INFO] RandomSeed = 2047709360
+2025-04-07 12:22:39 [INFO] HostSeed = 0
+2025-04-07 12:22:39 [INFO] ReceivedSeed = 0
