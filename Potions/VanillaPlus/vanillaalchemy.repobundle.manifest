@@ -1,0 +1,221 @@
+ManifestFileVersion: 0
+CRC: 3232530699
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7c6e4250218e9d35c2a3461d089ee21
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 70347333f66b44db1a2b464cb195ef1f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a7c6e4250218e9d35c2a3461d089ee21
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 235dc37e6afa80f0ab98b522005790b1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d0893f666540582cc8e6192b9b0efaa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: afb04f15e5901934204859739e834259, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a8fc605d86e253c130d95b9eb74debf5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5e1f9ba7191111f63038bd261aeb19fe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 475314fbfa77ddf710e864ca839ec842, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5ab8f401ece3e057ce511d64ce84d618, type: 3}
+- Class: 114
+  Script: {fileID: -56997839, guid: 7680ad499619992419a18cc7987342cb, type: 3}
+- Class: 114
+  Script: {fileID: 70401295, guid: 7680ad499619992419a18cc7987342cb, type: 3}
+- Class: 114
+  Script: {fileID: 290205176, guid: 7680ad499619992419a18cc7987342cb, type: 3}
+- Class: 114
+  Script: {fileID: -564260623, guid: 7680ad499619992419a18cc7987342cb, type: 3}
+- Class: 114
+  Script: {fileID: -1206831200, guid: 7680ad499619992419a18cc7987342cb, type: 3}
+- Class: 114
+  Script: {fileID: -1108701047, guid: 7680ad499619992419a18cc7987342cb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b92d0a529fd83f8597297eac8c68a10, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b35bc88e252b0db3321b6a042e656c7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff1df5370f7af74f11d71ad866fd0a19, type: 3}
+- Class: 114
+  Script: {fileID: -922562299, guid: af136770f611bde44987f51ddbab2bfc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4c64193ec0d41617254e7730e42756ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2e3fc4316c5898b5096a51406a41294, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b92a4ef4ae1593e56ebcdddb66fd49e8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 00a8f7fc10712b2f7a5f547dbfb7e1ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72bb657e63785f44f51afd88d9713a59, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c30496d6ae6d6f907456e10a94e01ec6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 56da4843e4ebf1c05d2d537ebba3e0cb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df46af9b5382a99d6c879bd453f679c6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aaea9639410203bd1cce2bb7f59ba556, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c20b921f0f6250c6ed1fdea2498755d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1206c9ec9e775be0fcc2df4034a65397, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bb8c5cd85de75894096f8ffb1f03f295, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e261796444f50417597de35c4c97b0bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e94dcf3314020481f880b97f02fc505, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f0727eaa6b245c79a70270919f6fe72c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a3c5831920c47b179b189f39981a1023, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1dc612d23e30bc425c249e877f0d02db, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6faa03549a5d36df92fbf8280daf61c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 02942ab980045f4bc14fcfe6eb84b28f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4a26ae7b3dd58778a2d2f94e1d8c1ec6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 627a013663f820c93f7430687080fd1d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bdbaf320f11d71b6ca19a7a37b1bf649, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5d1570d4589cf6daac40294b9f5544ba, type: 3}
+- Class: 114
+  Script: {fileID: 940556282, guid: 75f8df0fca0f31a48b7b6e10ebbe1073, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7be44b7a86e9719294c28348595d112, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a15e1c781475aa01b4927595581aa78d, type: 3}
+- Class: 114
+  Script: {fileID: -1558716956, guid: 3494cf43de286454199df435b9ac2375, type: 3}
+- Class: 114
+  Script: {fileID: -1549797422, guid: 3494cf43de286454199df435b9ac2375, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 328afba7744a086ddaa619a79c16685d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1690142c2a19245951fcb1f4197fef93, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 169
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Sound
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/REPO/Mods/VanillaAlchemy/ClusterMine/Item Mine Cluster.asset
+- Assets/REPO/Mods/VanillaAlchemy/VanillaRegistry/batregist.asset
+- Assets/REPO/Mods/VanillaAlchemy/VanillaRegistry/pan.asset
+- Assets/REPO/Mods/VanillaAlchemy/BamHammer/Item Melee Bam Hammer.asset
+- Assets/REPO/Mods/VanillaAlchemy/MineCore/mineingredient.asset
+- Assets/REPO/Mods/VanillaAlchemy/ClusterMine/clustermienrecipie.asset
+- Assets/REPO/Mods/VanillaAlchemy/BamHammer/bamrecipie.asset
+- Assets/REPO/Mods/VanillaAlchemy/ShockPan/Item Melee Shocking Pan.asset
+- Assets/REPO/Mods/VanillaAlchemy/VanillaRegistry/batcraftt.asset
+- Assets/REPO/Mods/VanillaAlchemy/Ingot/ingot.asset
+- Assets/REPO/Mods/VanillaAlchemy/TestNade/nuke2.asset
+- Assets/REPO/Mods/VanillaAlchemy/Recipies/New Item Recipe3.asset
+- Assets/REPO/Mods/VanillaAlchemy/ClusterMine/clusteritem.asset
+- Assets/REPO/Mods/VanillaAlchemy/Recipies/New Item Recipe4.asset
+- Assets/REPO/Mods/VanillaAlchemy/GrenadeCore/grenadeingredient.asset
+- Assets/REPO/Mods/VanillaAlchemy/Metal/metaling.asset
+- Assets/REPO/Mods/VanillaAlchemy/VanillaRegistry/sleding.asset
+- Assets/REPO/Mods/VanillaAlchemy/VanillaRegistry/mine.asset
+- Assets/REPO/Mods/VanillaAlchemy/ShockPan/electropan.asset
+- Assets/REPO/Mods/VanillaAlchemy/VanillaRegistry/ducttape.asset
+- Assets/REPO/Mods/VanillaAlchemy/Recipies/New Item Recipe1.asset
+- Assets/REPO/Mods/VanillaAlchemy/Planks/planks.asset
+- Assets/REPO/Mods/VanillaAlchemy/VanillaRegistry/frying.asset
+- Assets/REPO/Mods/VanillaAlchemy/Recipies/New Item Recipe2.asset
+- Assets/REPO/Mods/VanillaAlchemy/Planks/planky.asset
+- Assets/REPO/Mods/VanillaAlchemy/TestNade/NukeLib.asset
+- Assets/REPO/Mods/VanillaAlchemy/Recipies/New Item Recipe.asset
+- Assets/REPO/Mods/VanillaAlchemy/BamHammer/bamhammer.asset
+- Assets/REPO/Mods/VanillaAlchemy/Ingot/ingoty.asset
+- Assets/REPO/Mods/VanillaAlchemy/VanillaRegistry/grenadeing.asset
+- Assets/REPO/Mods/VanillaAlchemy/VanillaRegistry/sledge.asset
+- Assets/REPO/Mods/VanillaAlchemy/ShockPan/New Recipe.asset
+- Assets/REPO/Mods/VanillaAlchemy/TestNade/nukerecipie.asset
+- Assets/REPO/Mods/VanillaAlchemy/New Mod.asset
+- Assets/REPO/Mods/VanillaAlchemy/TestNade/Item Grenade Nuke.asset
+- Assets/REPO/Mods/VanillaAlchemy/Gunpowder/powderingredient.asset
+- Assets/REPO/Mods/VanillaAlchemy/Battery/batteryingredient.asset
+- Assets/REPO/Mods/VanillaAlchemy/ShockWaveCrystal/shockwaveingredient.asset
+- Assets/REPO/Mods/VanillaAlchemy/Recipies/New Item Recipe5.asset
+- Assets/REPO/Mods/VanillaAlchemy/Log/logingr.asset
+Dependencies: []
